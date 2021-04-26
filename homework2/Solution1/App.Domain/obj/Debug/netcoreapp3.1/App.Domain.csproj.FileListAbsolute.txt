@@ -1,0 +1,9 @@
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.deps.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csprojAssemblyReference.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework2\Solution1\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb
