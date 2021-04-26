@@ -1,0 +1,13 @@
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.exe
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.deps.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.runtimeconfig.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.runtimeconfig.dev.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\bin\Debug\netcoreapp3.1\WorkingDay.pdb
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.csprojAssemblyReference.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.AssemblyInfo.cs
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.pdb
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\WorkingDay\obj\Debug\netcoreapp3.1\WorkingDay.genruntimeconfig.cache

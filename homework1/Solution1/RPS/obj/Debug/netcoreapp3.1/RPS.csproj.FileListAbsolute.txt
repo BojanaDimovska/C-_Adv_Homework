@@ -1,0 +1,13 @@
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.exe
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.deps.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.runtimeconfig.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.runtimeconfig.dev.json
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\bin\Debug\netcoreapp3.1\RPS.pdb
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.csprojAssemblyReference.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.AssemblyInfo.cs
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.dll
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.pdb
+C:\Users\bojan\Desktop\Seavus\advanced c# homework\homework1\Solution1\RPS\obj\Debug\netcoreapp3.1\RPS.genruntimeconfig.cache
