@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTrackingApp.Domain", "TimeTrackingApp.Domain\TimeTrackingApp.Domain.csproj", "{FF86B93E-5379-4454-AB00-ED4C3D5A50E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTrackingApp.Services", "TimeTrackingApp.Services\TimeTrackingApp.Services.csproj", "{DA6EA8CF-1E71-497C-B159-A841886C5C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTrackingApp.App", "TimeTrackingApp.App\TimeTrackingApp.App.csproj", "{972C5F18-B695-470C-A75A-7FA0603ACFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF86B93E-5379-4454-AB00-ED4C3D5A50E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF86B93E-5379-4454-AB00-ED4C3D5A50E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF86B93E-5379-4454-AB00-ED4C3D5A50E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF86B93E-5379-4454-AB00-ED4C3D5A50E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6EA8CF-1E71-497C-B159-A841886C5C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6EA8CF-1E71-497C-B159-A841886C5C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6EA8CF-1E71-497C-B159-A841886C5C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6EA8CF-1E71-497C-B159-A841886C5C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972C5F18-B695-470C-A75A-7FA0603ACFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972C5F18-B695-470C-A75A-7FA0603ACFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972C5F18-B695-470C-A75A-7FA0603ACFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972C5F18-B695-470C-A75A-7FA0603ACFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44FC2F33-EC10-48D9-ABFA-E0AF4C896434}
+	EndGlobalSection
+EndGlobal
